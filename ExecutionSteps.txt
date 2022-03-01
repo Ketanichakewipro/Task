@@ -1,4 +1,5 @@
 Follow below steps to execute code:
+	- Download code zip from github.
 	- Create vitrual environment using below commands:
 	-GO to folder in which you want create project.
 	- then open cmd from that folder.
@@ -9,7 +10,7 @@ Follow below steps to execute code:
 	- Activate
 	- cd ..
 	- mkdir plotlydashtask
-	- go to plotlydashtask folder and all files into that folder.
+	- go to plotlydashtask folder and copy all files and folder from task-master zip extracted file into plotlydashtask folder.
 	- open cmd and enter cd plotlydashtask
 	- pip install -r requirements.txt
 	- python app.py
